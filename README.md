@@ -92,7 +92,7 @@
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arihant03105&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arihant03105&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
