@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Arihant+Jain+👋;BCA+Student+%40+TMU+Moradabad;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Arihant+Jain+%F0%9F%91%8B;BCA+Student+%40+TMU+Moradabad;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -87,12 +87,12 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arihant03105&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="150"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant03105&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arihant03105&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" height="150"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant03105&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=1800" height="150"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arihant03105&theme=tokyonight&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arihant03105&theme=tokyonight&hide_border=false" />
 </div>
 
 ---
