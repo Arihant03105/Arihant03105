@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Arihant+Jain+%F0%9F%91%8B;BCA+Student+%40+TMU+Moradabad;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Arihant+Jain+%F0%9F%91%8B;BCA+Student+%40+TMU+Moradabad;Full+Stack+Developer;Java+%26+Spring+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,10 +7,10 @@
 # 💫 About Me
 
 🔭 I'm currently working on **Edu Exchange** – a full-stack study material sharing platform *(React, Node.js, MongoDB)*
-👥 I'm looking to collaborate on **open source web tools, React/Node.js projects, or ML-based web apps**
+👥 I'm looking to collaborate on **open source web tools, React/Node.js projects, or Java-based web apps**
 🤝 I'm looking for help with **Advanced Spring Boot backend architecture and REST API best practices**
 🌱 I'm currently learning **Spring Framework (Java), advanced backend development, and system design**
-💬 Ask me about **React.js, Astro, Python ML models, building utility web tools, or full-stack development**
+💬 Ask me about **React.js, Astro, Java, Spring, building utility web tools, or full-stack development**
 ⚡ Fun fact: **I built a platform with 150+ web tools (utily.xyz) while still in my first year of BCA!**
 
 ---
@@ -32,7 +32,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Astro](https://img.shields.io/badge/astro-%23FF5D01.svg?style=flat&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 **Backend & Mobile**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -41,8 +40,10 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-**ML & Tools**
+**Tools & Cloud**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -57,14 +58,12 @@
 |---------|-------------|------|------|
 | 🔧 **Utily.xyz** | 150+ web tools — image, PDF, JSON & more | Astro, JS, CSS | [Live ↗](https://www.utily.xyz) |
 | 📚 **Edu Exchange** | Full-stack academic resource sharing platform | React, Node, MongoDB | In Progress |
-| 🥗 **Diet Planner** | Personalized nutrition system with calorie logic | HTML, CSS, JS | Personal Project |
 
 ---
 
 # 💼 Experience
 
 🏢 **Software Development Intern** *(Java + Spring)* — Softpro India, Noida | May 2026 – Jul 2026
-🤖 **Machine Learning Intern** — CodeAlpha, Remote | Dec 2025 – Jan 2026
 
 ---
 
@@ -76,11 +75,12 @@
 - 💡 Internal Hackathon 2025 — MCA Dept, TMU Moradabad
 
 **Certifications**
-- Machine Learning Workshop — IIT Roorkee / EISystems *(2026)*
-- Power BI Workshop — OfficeMaster
-- AI Tools & ChatGPT — be10x
-- AWS Job Simulation — Forage
-- Cyber Security Simulation — Deloitte (Forage)
+- Full-Stack Development Masterclass — WsCube Tech *(Nov 2025)*
+- Machine Learning Workshop — IIT Roorkee / EISystems *(Feb 2026)*
+- AWS Solutions Architecture Job Simulation — Forage *(Nov 2025)*
+- Cyber Security Job Simulation — Deloitte / Forage *(Nov 2025)*
+- Power BI Workshop — OfficeMaster *(Nov 2025)*
+- AI Tools & ChatGPT Workshop — be10x *(Nov 2025)*
 
 ---
 
