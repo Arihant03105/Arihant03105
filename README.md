@@ -134,7 +134,6 @@ public class Arihant {
 <img src="https://streak-stats.demolab.com?user=Arihant03105&theme=tokyonight&hide_border=true" height="165"/>
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arihant03105&theme=tokyonight"/>
 
 </div>
 
