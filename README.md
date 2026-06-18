@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4AA,100:0D1117&height=220&section=header&text=Arihant%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Java%20Developer&descAlignY=58&descSize=22&descColor=00D4AA&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+🚀;Java+%26+Spring+Boot+Enthusiast+☕;BCA+Student+at+TMU+Moradabad+🎓;Built+150%2B+Web+Tools+at+utily.xyz+🔥;Open+Source+Contributor+🌟" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%26+Spring+Boot+Enthusiast+%E2%98%95;BCA+Student+%40+TMU+Moradabad+%F0%9F%8E%93;Built+150%2B+Web+Tools+%40+utily.xyz+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
@@ -134,7 +134,7 @@ public class Arihant {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Arihant03105&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arihant03105&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
