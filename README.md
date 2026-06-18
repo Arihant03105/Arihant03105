@@ -129,10 +129,9 @@ public class Arihant {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arihant03105&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant03105&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arihant03105&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 
+<img src="https://streak-stats.demolab.com?user=Arihant03105&theme=tokyonight&hide_border=true" height="165"/>
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arihant03105&theme=tokyonight&hide_border=true" height="165"/>
