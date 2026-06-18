@@ -134,7 +134,7 @@ public class Arihant {
 <img src="https://streak-stats.demolab.com?user=Arihant03105&theme=tokyonight&hide_border=true" height="165"/>
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arihant03105&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arihant03105&theme=tokyonight"/>
 
 </div>
 
@@ -143,7 +143,7 @@ public class Arihant {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arihant03105&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arihant03105&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -169,3 +169,5 @@ Have a project idea, an opportunity, or just want to say hi? I'm always open to 
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Arihant03105&color=00D4AA&style=flat-square&label=Visitors" />
 </div>
+
+
