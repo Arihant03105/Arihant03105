@@ -143,7 +143,7 @@ public class Arihant {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arihant03105&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arihant03105&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
